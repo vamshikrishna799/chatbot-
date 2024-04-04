@@ -9,7 +9,7 @@ Name : gundoju vamshi krishna
 Intern ID: COD5727
 
 **Task Description :**
-the task assigned to B Vagesh Datta during the codtech IT solutions Internship program is to write a java program the create a SampleChatbot.
+the task assigned to G.vamshi krishna during the codtech IT solutions Internship program is to write a java program the create a SampleChatbot.
 
 **Implementation**
 the implementation of the task involves utilizing java programming language to create a simple program that iterates from samplechatbot . the program "do" loop to achiew this functionaaly efficiently. belowis the code implementation:
